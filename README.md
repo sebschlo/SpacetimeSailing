@@ -3,8 +3,8 @@ SpacetimeSailing
 
 Java Game created for CIS 120
 
-To run, clone the entire repo; the Pictures folder must be in the same directory 
-as the jar file in order for the game to run.
+Make sure the Pictures folder is present in the same directory as the jar file 
+in order for the game to run.
 
 You are in a spaceship orbiting the Earth and need to collect asteroids floating
 through the solar system. Your only means of moving are exiting planets' orbits
